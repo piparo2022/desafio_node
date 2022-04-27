@@ -1,0 +1,12 @@
+{
+   "name": "nodejs",
+   "version": "1.0.0",
+   "description": "",
+   "main": "index.js",
+   "scripts": {
+      "compilar": "sass --watch scss/style.scss css/style.css"
+   },
+   "keywords": [],
+   "author": "",
+   "license": "ISC"
+}
